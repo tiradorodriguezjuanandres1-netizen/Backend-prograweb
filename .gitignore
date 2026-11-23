@@ -1,0 +1,23 @@
+
+# Dependencias
+**/node_modules/
+
+# Compilaciones
+**/dist/
+**/build/
+**/.angular/
+**/coverage/
+
+# Archivos temporales
+**/*.log
+**/.DS_Store
+**/Thumbs.db
+
+# Cachés
+**/.cache/
+**/.vite/
+**/tmp/
+
+# Mantener archivos de configuración
+!backend/.env
+/Frontprograweb/
